@@ -1,0 +1,25 @@
+.topbar {
+    background-color: #2687a7;
+    color: #fff;
+    padding: 10px 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .logo {
+    display: flex;
+    align-items: center;
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  .logo img {
+    height: 40px;
+  }
+  
+  .logo h1 {
+    font-size: 1.5em;
+    margin: 0;
+    font-weight: 700;
+    letter-spacing: 1px;
+  }
