@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/buyzi/static/css/main.9bf8d204.css",
-    "main.js": "/buyzi/static/js/main.4ad17599.js",
+    "main.js": "/buyzi/static/js/main.c21b5548.js",
     "static/media/logo.png": "/buyzi/static/media/logo.54fe8504e70ed3021068.png",
     "index.html": "/buyzi/index.html",
     "main.9bf8d204.css.map": "/buyzi/static/css/main.9bf8d204.css.map",
-    "main.4ad17599.js.map": "/buyzi/static/js/main.4ad17599.js.map"
+    "main.c21b5548.js.map": "/buyzi/static/js/main.c21b5548.js.map"
   },
   "entrypoints": [
     "static/css/main.9bf8d204.css",
-    "static/js/main.4ad17599.js"
+    "static/js/main.c21b5548.js"
   ]
 }
